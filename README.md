@@ -2,7 +2,9 @@
 
 1. Download and Install VS Code
 2. From Terminal
+
    npm install
+
    ng serve --port 8081 -o
 
 [Creating Backend - Spring REST API - Part 1](https://www.javachinna.com/2020/10/23/spring-boot-angular-10-user-registration-oauth2-social-login-part-1/)
