@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/renoweb/static/css/main.c420bf9e.chunk.css",
+    "main.js": "/renoweb/static/js/main.4d79aa24.chunk.js",
+    "main.js.map": "/renoweb/static/js/main.4d79aa24.chunk.js.map",
+    "runtime-main.js": "/renoweb/static/js/runtime-main.253ed5a9.js",
+    "runtime-main.js.map": "/renoweb/static/js/runtime-main.253ed5a9.js.map",
+    "static/js/2.cd01852c.chunk.js": "/renoweb/static/js/2.cd01852c.chunk.js",
+    "static/js/2.cd01852c.chunk.js.map": "/renoweb/static/js/2.cd01852c.chunk.js.map",
+    "static/js/3.acd56362.chunk.js": "/renoweb/static/js/3.acd56362.chunk.js",
+    "static/js/3.acd56362.chunk.js.map": "/renoweb/static/js/3.acd56362.chunk.js.map",
+    "index.html": "/renoweb/index.html",
+    "static/css/main.c420bf9e.chunk.css.map": "/renoweb/static/css/main.c420bf9e.chunk.css.map",
+    "static/js/2.cd01852c.chunk.js.LICENSE.txt": "/renoweb/static/js/2.cd01852c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253ed5a9.js",
+    "static/js/2.cd01852c.chunk.js",
+    "static/css/main.c420bf9e.chunk.css",
+    "static/js/main.4d79aa24.chunk.js"
+  ]
+}
